@@ -4,7 +4,7 @@ Plugin Name: Shortcode Popup
 Plugin URI: https://penciledge.net/shortcode-popup
 Description: A plugin to display a popup with an embedded shortcode and a close button.
 Version: 1.1
-Author: Shortcode Popup
+Author: Uyi Moses
 Author URI: https://penciledge.net
 */
 
